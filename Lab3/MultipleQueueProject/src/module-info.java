@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author xuezh
+ *
+ */
+module MultipleQueueProject {
+}
